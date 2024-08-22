@@ -169,10 +169,10 @@ span {
     }
     
     .home{
-        margin: 10px;
-        padding: 10px;
+        margin: 0px;
+        padding: 0px;
         display:flex;
-
+        margin-left: 50px;
         
     }
     .home .home-img{
